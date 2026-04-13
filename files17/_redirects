@@ -1,2 +1,0 @@
-# Redireciona todas as rotas para index.html (necessário para PWA/SPA no Netlify)
-/*    /index.html   200
